@@ -180,7 +180,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       __Certifications__
-       - Certificated Information Systems Security Professional (May 2022)
+       - Certified Information Systems Security Professional (May 2022)
        - Microsoft Certified: Azure Security Engineer Associate (May 2020)
        - Microsoft Certified: Azure Fundamentals (Sep 2019)
        - AWS Certified Solutions Architect - Associate (May 2019)
