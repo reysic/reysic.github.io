@@ -6,7 +6,7 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Jeremy Hicks
+name: Jeremy Hicks, CISSP
 title: Cloud Security Architect
 email: hello@reysic.com
 website: https://reysic.com
@@ -52,9 +52,9 @@ about_content: | # this will include new lines to allow paragraphs
   
   Following my graduation from Guildhall, I worked for a startup on a variety of projects, including a multiplayer augmented reality defense-shooter game, automated web application testing via UI and API, and cloud infrastructure codification and deployment of the aforementioned web application. Near the end of my time at the startup I had developed an interest in broader software development (not just games) and how to leverage the cloud. 
   
-  I obtained my first AWS certification and then, with a background in security and software development, took on a role in security engineering. Since then I have continued to work in both Azure and AWS, supporting teams in deploying secure cloud infrastructure and monitoring and maintaing the security posture of existing infrastructure.
+  I obtained my first AWS certification and then, with a background in security and software development, took on a role in security engineering. Since then I have continued to work in both Azure and AWS, supporting teams in deploying secure cloud infrastructure and monitoring and maintaining the security posture of existing infrastructure.
 
-  I am currently an individual contributor but have also held both lead and managerial roles in security engineering.
+  I am currently an individual contributor (IC) but have also held both lead and managerial roles in security engineering.
 
 content:
   - title: Work Experience # Title for the section
@@ -180,6 +180,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       __Certifications__
+       - Certificated Information Systems Security Professional (May 2022)
        - Microsoft Certified: Azure Security Engineer Associate (May 2020)
        - Microsoft Certified: Azure Fundamentals (Sep 2019)
        - AWS Certified Solutions Architect - Associate (May 2019)
