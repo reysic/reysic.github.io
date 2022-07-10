@@ -6,8 +6,8 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Jeremy Hicks, CISSP
-title: Cloud Security Architect
+name: Jeremy Hicks
+title: Cloud Security Architect | CISSP | Azure/AWS-Certified
 email: hello@reysic.com
 website: https://reysic.com
 
@@ -22,7 +22,7 @@ github_username: jeremy-hicks
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: chillwildlife
-# linkedin_username: reysic
+linkedin_username: reysic
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: globalmtb
@@ -64,7 +64,7 @@ content:
         title: defi SOLUTIONS
         link: defisolutions.com
         # link_text: boringcompany.com
-        sub_title: Cloud Security Architect
+        sub_title: Senior Lead Security Engineer
         caption: February 2022 - Present
         quote: >
           defi SOLUTIONS partners with captives, banks, credit unions, and finance companies of all types and sizes to help lenders transform their operations. The company’s comprehensive suite of end-to-end originations, servicing, and analytics solutions, together with technology-enabled processing services, are flexible, configurable, and scalable to address the ever-evolving needs of lenders and borrowers.
@@ -87,7 +87,7 @@ content:
         title: defi SOLUTIONS
         link: defisolutions.com
         # link_text: boringcompany.com
-        sub_title: Security Engineer, Lead
+        sub_title: Lead Security Engineer
         caption: September 2020 - August 2021
         quote: >
           defi SOLUTIONS partners with captives, banks, credit unions, and finance companies of all types and sizes to help lenders transform their operations. The company’s comprehensive suite of end-to-end originations, servicing, and analytics solutions, together with technology-enabled processing services, are flexible, configurable, and scalable to address the ever-evolving needs of lenders and borrowers.
