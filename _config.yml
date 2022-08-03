@@ -30,10 +30,10 @@ linkedin_username: reysic
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-# additional_links:
-# - title: itsgoingto.be
-#   icon: fas fa-globe
-#   url: https://www.itsgoingto.be
+additional_links:
+- title: Credly
+  icon: fas fa-globe
+  url: https://credly.com/users/reysic
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -54,7 +54,7 @@ about_content: | # this will include new lines to allow paragraphs
   
   I obtained my first AWS certification and then, with a background in security and software development, took on a role in security engineering. Since then I have continued to work in both Azure and AWS, supporting teams in deploying secure cloud infrastructure and monitoring and maintaining the security posture of existing infrastructure.
 
-  I am currently an individual contributor (IC) but have also held both lead and managerial roles in security engineering.
+  I am currently an individual contributor (IC) but have also held both lead and managerial roles in security engineering. I enjoy learning and sharing my knowledge with others via teaching, knowledge sessions, and mentorships.
 
 content:
   - title: Work Experience # Title for the section
