@@ -65,24 +65,13 @@ content:
         link: defisolutions.com
         # link_text: boringcompany.com
         sub_title: Senior Lead Security Engineer
-        caption: February 2022 - Present
+        caption: August 2021 - Present
         quote: >
           defi SOLUTIONS partners with captives, banks, credit unions, and finance companies of all types and sizes to help lenders transform their operations. The company’s comprehensive suite of end-to-end originations, servicing, and analytics solutions, together with technology-enabled processing services, are flexible, configurable, and scalable to address the ever-evolving needs of lenders and borrowers.
         description: | # this will include new lines to allow paragraphs
           - Security review of new development and infrastructure inititiatives
           - Hands-on implementation work in areas of cloud privileged IAM, encryption, and secrets
-      - layout: left
-        title: defi SOLUTIONS
-        link: defisolutions.com
-        # link_text: boringcompany.com
-        sub_title: Manager Security Engineering
-        caption: August 2021 - February 2022
-        quote: >
-          defi SOLUTIONS partners with captives, banks, credit unions, and finance companies of all types and sizes to help lenders transform their operations. The company’s comprehensive suite of end-to-end originations, servicing, and analytics solutions, together with technology-enabled processing services, are flexible, configurable, and scalable to address the ever-evolving needs of lenders and borrowers.
-        description: | # this will include new lines to allow paragraphs
           - Goal setting, direction, and work delegation of security engineering team
-          - Oversight of technical security initiatives and timelines across the organization, spanning both commercial and corporate spaces
-          - Administrative duties including hiring, expense approvals, and performance reviews
       - layout: left
         title: defi SOLUTIONS
         link: defisolutions.com
