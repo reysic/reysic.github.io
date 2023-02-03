@@ -65,7 +65,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           - Security review of new development and infrastructure inititiatives
           - Hands-on implementation work in areas of cloud privileged IAM, encryption, and secrets
-          - Goal setting, direction, and work delegation of security engineering team
+          - Technical guidance and training of security engineering team
       - layout: left
         title: defi SOLUTIONS
         link: defisolutions.com
@@ -75,7 +75,6 @@ content:
         quote: >
           defi SOLUTIONS partners with captives, banks, credit unions, and finance companies of all types and sizes to help lenders transform their operations. The company’s comprehensive suite of end-to-end originations, servicing, and analytics solutions, together with technology-enabled processing services, are flexible, configurable, and scalable to address the ever-evolving needs of lenders and borrowers.
         description: | # this will include new lines to allow paragraphs
-          - Technical guidance and training of security engineering team
           - Audit evidence provisioning and technical discussion
           - Primary POC for potential security incidents
       - layout: left
