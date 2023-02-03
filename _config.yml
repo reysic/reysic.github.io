@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Jeremy Hicks
-title: Cloud Security Architect | CISSP | Azure/AWS-Certified
+title: Security Engineer
 email: hello@reysic.com
 website: https://reysic.com
 
@@ -48,13 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  I started my career in IT security after obtaining a B.S. and M.S. in Cognitive Science from UT Dallas. I worked in a Security Operations Center (SOC) for an MSSP monitoring security appliances and performing PCI compliance reporting for about a year before returning to school at SMU Guildhall to pursue a professional certificate in game programming.
-  
-  Following my graduation from Guildhall, I worked for a startup on a variety of projects, including a multiplayer augmented reality defense-shooter game, automated web application testing via UI and API, and cloud infrastructure codification and deployment of the aforementioned web application. Near the end of my time at the startup I had developed an interest in broader software development (not just games) and how to leverage the cloud. 
-  
-  I obtained my first AWS certification and then, with a background in security and software development, took on a role in security engineering. Since then I have continued to work in both Azure and AWS, supporting teams in deploying secure cloud infrastructure and monitoring and maintaining the security posture of existing infrastructure.
-
-  I am currently an individual contributor (IC) but have also held both lead and managerial roles in security engineering. I enjoy learning and sharing my knowledge with others via teaching, knowledge sessions, and mentorships.
+  Security practioner whose primary passion is learning new technologies and techniques and applying them to securely meet business needs. Experienced with security monitoring, testing, controls, and response, cloud technologies, automation, and writing, debugging, and deploying code.
 
 content:
   - title: Work Experience # Title for the section
