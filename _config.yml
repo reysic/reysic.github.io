@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Jeremy Hicks
-title: Security Engineer
+title: Cloud Security Architect | CISSP | Azure/AWS-Certified
 email: hello@reysic.com
 website: https://reysic.com
 
@@ -48,7 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  Security practioner whose primary passion is learning new technologies and techniques and applying them to securely meet business needs. Experienced with security monitoring, testing, controls, and response, cloud technologies, automation, and writing, debugging, and deploying code.
+  Security practitioner whose primary passion is learning new technologies and techniques and applying them to securely meet business needs. Experienced with security monitoring, testing, controls, and response, cloud technologies, automation, and writing, debugging, and deploying code.
 
 content:
   - title: Work Experience # Title for the section
