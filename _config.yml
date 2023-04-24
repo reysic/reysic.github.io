@@ -48,7 +48,13 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  Security practitioner whose primary passion is learning new technologies and techniques and applying them to securely meet business needs. Experienced with security monitoring, testing, controls, and response, cloud technologies, automation, and writing, debugging, and deploying code.
+  I started my career in IT security after obtaining a B.S. and M.S. in Cognitive Science from UT Dallas. I worked in a Security Operations Center (SOC) for an MSSP monitoring security appliances and performing PCI compliance reporting for about a year before returning to school at SMU Guildhall to pursue a professional certificate in game programming.
+  
+  Following my graduation from Guildhall, I worked for a startup on a variety of projects, including a multiplayer augmented reality defense-shooter game, automated web application testing via UI and API, and cloud infrastructure codification and deployment of web applications. Near the end of my time at the startup I had developed an interest in broader software development beyond games and how to leverage the cloud. 
+  
+  I obtained my first AWS certification and then, with a background in security and software development, took on a role in security engineering. Since then, I have continued to work in both Azure and AWS, supporting teams in deploying secure cloud infrastructure and monitoring and maintaining the security posture of existing infrastructure.
+
+  I am currently an individual contributor (IC) but have also held both lead and managerial roles in security engineering. My primary passion is learning new technologies and techniques and applying them to securely meet business needs. I enjoy sharing knowledge with others via teaching, knowledge sessions, and mentorships, and I am experienced with security monitoring, testing, controls, and response, cloud technologies, automation, and writing, debugging, and deploying code.
 
 content:
   - title: Work Experience # Title for the section
@@ -63,9 +69,13 @@ content:
         quote: >
           defi SOLUTIONS partners with captives, banks, credit unions, and finance companies of all types and sizes to help lenders transform their operations. The company’s comprehensive suite of end-to-end originations, servicing, and analytics solutions, together with technology-enabled processing services, are flexible, configurable, and scalable to address the ever-evolving needs of lenders and borrowers.
         description: | # this will include new lines to allow paragraphs
-          - Security review of new development and infrastructure inititiatives
-          - Hands-on implementation work in areas of cloud privileged IAM, encryption, and secrets
-          - Technical guidance and training of security engineering team
+          - Security engineering strategy, leadership, and mentoring
+          - Security-related planning, research, and input for new technology and architecture initiatives
+          - Security process or control design and subsequent knowledge transfer
+          - Commercial cloud security security-related incident escalations
+          - Escalations related to security automation, IAM, and SSO
+          - Technical audit escalations
+          - Hands-on implementation and review in areas of cloud privileged IAM, application identity and credential management, and SSO (OIDC and SAML-based integrations)
       - layout: left
         title: defi SOLUTIONS
         link: defisolutions.com
@@ -75,7 +85,7 @@ content:
         quote: >
           defi SOLUTIONS partners with captives, banks, credit unions, and finance companies of all types and sizes to help lenders transform their operations. The company’s comprehensive suite of end-to-end originations, servicing, and analytics solutions, together with technology-enabled processing services, are flexible, configurable, and scalable to address the ever-evolving needs of lenders and borrowers.
         description: | # this will include new lines to allow paragraphs
-          - Audit evidence provisioning and technical discussion
+          - Technical audit evidence provisioning and discussion
           - Primary POC for potential security incidents
       - layout: left
         title: defi SOLUTIONS
@@ -86,7 +96,7 @@ content:
         quote: >
           defi SOLUTIONS partners with captives, banks, credit unions, and finance companies of all types and sizes to help lenders transform their operations. The company’s comprehensive suite of end-to-end originations, servicing, and analytics solutions, together with technology-enabled processing services, are flexible, configurable, and scalable to address the ever-evolving needs of lenders and borrowers.
         description: | # this will include new lines to allow paragraphs
-          - Azure security posture analysis, monitoring, and improvement, using tools including Security Center, Defender, Azure Policy, and Sentinel
+          - Azure security posture analysis, monitoring, and improvement, using tools including Defender for Cloud, Azure Policy, and Sentinel
           - Security task automation via PowerShell scripting and Azure Pipelines (CI/CD), including management of application identities and secrets and secure storage via Key Vault
           - Virtual security appliance deployment, configuration, and operation, including log forwarders and vulnerability scanners
           - Azure IAM implementation and administration using SSO, MFA, RBAC, and PIM
