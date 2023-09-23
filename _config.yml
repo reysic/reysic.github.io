@@ -70,12 +70,12 @@ content:
           defi SOLUTIONS partners with captives, banks, credit unions, and finance companies of all types and sizes to help lenders transform their operations. The company’s comprehensive suite of end-to-end originations, servicing, and analytics solutions, together with technology-enabled processing services, are flexible, configurable, and scalable to address the ever-evolving needs of lenders and borrowers.
         description: | # this will include new lines to allow paragraphs
           - Security engineering strategy, leadership, and mentoring
-          - Security-related planning, research, and input for new technology and architecture initiatives
-          - Security process or control design and subsequent knowledge transfer
+          - Security-related planning, research, and input for new technology and architecture initiatives, including weekly meetings with VPs/CIO
+          - Security process and control design, documentation, and knowledge transfer
           - Commercial cloud security security-related incident escalations
           - Escalations related to security automation, IAM, and SSO
           - Technical audit escalations
-          - Hands-on implementation and review in areas of cloud privileged IAM, application identity and credential management, and SSO (OIDC and SAML-based integrations)
+          - Continuing hands-on implementation and review in areas of cloud privileged IAM, application identity and credential management, and SSO (OIDC and SAML-based integrations)
       - layout: left
         title: defi SOLUTIONS
         link: defisolutions.com
@@ -85,8 +85,9 @@ content:
         quote: >
           defi SOLUTIONS partners with captives, banks, credit unions, and finance companies of all types and sizes to help lenders transform their operations. The company’s comprehensive suite of end-to-end originations, servicing, and analytics solutions, together with technology-enabled processing services, are flexible, configurable, and scalable to address the ever-evolving needs of lenders and borrowers.
         description: | # this will include new lines to allow paragraphs
-          - Technical audit evidence provisioning and discussion
+          - Technical audit participation and evidence provisioning
           - Primary POC for potential security incidents
+          - Configuration and management of SAST and DAST application security tooling, including CI/CD integration
       - layout: left
         title: defi SOLUTIONS
         link: defisolutions.com
@@ -97,9 +98,9 @@ content:
           defi SOLUTIONS partners with captives, banks, credit unions, and finance companies of all types and sizes to help lenders transform their operations. The company’s comprehensive suite of end-to-end originations, servicing, and analytics solutions, together with technology-enabled processing services, are flexible, configurable, and scalable to address the ever-evolving needs of lenders and borrowers.
         description: | # this will include new lines to allow paragraphs
           - Azure security posture analysis, monitoring, and improvement, using tools including Defender for Cloud, Azure Policy, and Sentinel
-          - Security task automation via PowerShell scripting and Azure Pipelines (CI/CD), including management of application identities and secrets and secure storage via Key Vault
-          - Virtual security appliance deployment, configuration, and operation, including log forwarders and vulnerability scanners
-          - Azure IAM implementation and administration using SSO, MFA, RBAC, and PIM
+          - Security task automation via PowerShell scripting and Azure Pipelines (CI/CD), including management of application identities and secrets and secure storage via Azure Key Vault
+          - Virtual security appliance deployment (via IaC), configuration, and operation, including log forwarders and vulnerability scanners
+          - IAM design, implementation, and administration using SSO, MFA, RBAC, and PIM
           - Management and configuration of corporate security tooling including endpoint threat detection, DLP, CASB, and vulnerability scanning
       - layout: left
         title: HookBang
