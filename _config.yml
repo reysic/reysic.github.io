@@ -46,7 +46,7 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.png
+# about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
   I started my career in IT security after obtaining a B.S. and M.S. in Cognitive Science from UT Dallas. I worked in a Security Operations Center (SOC) for an MSSP monitoring security appliances and performing PCI compliance reporting for about a year before returning to school at SMU Guildhall to pursue a professional certificate in game programming.
     
