@@ -1,5 +1,5 @@
 # Site
-repository: jeremy-hicks/jeremy-hicks.github.io
+repository: reysic/reysic.github.io
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -16,7 +16,7 @@ darkmode: true
 
 # Social links
 # twitter_username: facespics
-github_username: jeremy-hicks
+github_username: reysic
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
